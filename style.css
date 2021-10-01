@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    background-color: salmon;
+    font-size: 30px;
+    color: indigo;
+    border: 10px dotted red;
+}
+article{
+    background-color: steelblue;
+    font-size: 24px;
+    font-weight: 300;
+    border: 10px double blue;
+
+}
